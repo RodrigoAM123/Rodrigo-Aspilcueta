@@ -18,7 +18,7 @@ La base de datos usado de 20,009 filas incluyen los siguientes datos:
 - **Mapa de distribución**: Ubicación geográfica de los clientes en Perú.
 
 ##  Vista Previa
-![Dashboard](Dashboard image.png)
+![Dashboard image.png](https://github.com/RodrigoAM123/Rodrigo-Aspilcueta/blob/ffb090c361016ace870c0f5c1bb88e30352dbcbd/PowerBI/Dashboard%20image.png)
 
 ## Conclusiones
 - La mayoría de los clientes (90.09%) califican para un seguro, mientras que solo el 9.91% no califica, lo que indica que la mayoría tiene un perfil financiero estable.
